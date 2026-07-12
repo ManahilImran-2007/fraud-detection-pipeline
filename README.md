@@ -47,4 +47,4 @@ Fraudulent transactions make up only 0.17% of all transactions in this dataset (
 - Matplotlib
 
 ## Author
-Manahil | FAST-NUCES Islamabad | Data Analytics Intern, DecodeLabs
+Manahil
